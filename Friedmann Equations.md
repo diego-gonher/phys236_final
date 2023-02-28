@@ -1,0 +1,59 @@
+# Friedmann Equations and Scale Factor Dependence
+
+### Write down the Friedmann equation and the fluid equation in a flat universe (i.e. ignore curvature terms).
+#### Friedmann Equation
+The Friedmann Equation gives the relationship between the expansion rate and the energy budget within the universe:
+
+$$
+\bigg( \frac{\dot{a}}{a} \bigg)^2 = \frac{8 \pi G \rho}{3} - \frac{kc^2}{R_0^2a^2}
+$$
+
+When derived with a proper GR treatment, $k \in \{-1,0,1\}$, which corresponds to an open, flat and closed universes. For a flat universe, the Friedmann Equation clearly simplifies to:
+
+$$
+\bigg( \frac{\dot{a}}{a} \bigg)^2 = \frac{8 \pi G \rho}{3}
+$$
+
+#### Fluid Equation
+Starting from the First Law of Thermodynamics $dQ = TdS = dU + PdV$ and using the cosmological principle ($dQ=0$) alognside the notion of a comoving volume, one can arrive to the Fluid Equation:
+
+$$
+\dot{\rho} + 3\frac{\dot{a}}{a}\bigg(\rho + \frac{P}{c^2} \bigg) = 0
+$$
+
+To build some physical intuition, one can conceptualize the fluid equation as a sort of generalization of energy conservation that takes into account an expanding universe.
+
+#### Acceleration Equation
+For completion, there is a third important equation that describes the dynamics of an expanding universe, which can be obtained by combining the Friedmann and the Fluid Equations:
+
+$$
+\frac{\ddot{a}}{a} = -\frac{4\pi G}{3}\bigg( \rho + \frac{3P}{c^2} \bigg)
+$$
+
+This is known as the Acceleration Equation, as it relates the energy content of the universe with the rate at which the comoving factor is changing over time.
+
+### Show that in a vacuum-dominated universe with \rho_\Lambda approximately  constant, the scale factor increases exponentially with time.
+As we saw, the Friedmann Equation in a flat universe becomes:
+
+$$
+\bigg( \frac{\dot{a}}{a} \bigg)^2 = \frac{8\pi G \rho}{3}
+$$
+
+With a dark energy dominated universe, we can say $\rho \approx \rho_{\Lambda} \approx$ const. This allows us to do write the following:
+
+$$
+\int ln(a)da = \bigg( \frac{8 \pi G \rho_{\Lambda}}{3} \bigg)^{1/2} \int dt
+$$
+
+And clearly:
+
+$$
+a(t) = e^{H_0(t-t_0)}
+$$
+
+### Find the relation between scale factor and time in a matter dominated and a radiation dominated universe.
+
+
+### How is the Hubble parameter related to the scale factor a(t)?
+
+### Write down the approximate value of the Hubble constant today (including correct units), and hence give a rough estimate of the age of the universe.
