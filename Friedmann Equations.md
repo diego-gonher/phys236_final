@@ -52,8 +52,51 @@ a(t) = e^{H_0(t-t_0)}
 $$
 
 ### Find the relation between scale factor and time in a matter dominated and a radiation dominated universe.
+The Friedmann and the Fluid Equations can be used to derive the equations that govern the dynamics of an expanding universe. However, these two independent equations have three unkwowns: $a(t)$, $\rho$ and $P$. For this reason, we employ an equation of state of the form:
 
+$$
+P = w\rho c^2
+$$
+
+Where $w$ is a constant number that depends on the energy component. We can input this in the Fluid Equation and, after simplifying, we get:
+
+$$
+\frac{\dot{\rho}}{\rho} = -3(1+w)\frac{\dot{a}}{a}
+$$
+
+Integrating both sides:
+
+$$
+\rho = \rho_0a^{-3(1+w)}
+$$
+
+We can now use this in the Friedmann Equation, and after simplifying, we get that for a single-component universe:
+
+$$
+a(t) = \bigg( \frac{t}{t_0} \bigg)^{\frac{2}{3(1+w)}}
+$$
+
+Now, we can use the corresponding values of $w$ for matter and radiation to obtain a dependence between the scale factor and time:
+
+For matter, $w=0$, and thus:
+
+$$
+a_m(t) \propto t^{2/3}
+$$
+
+For radiation, $w=1/3$, and thus:
+
+$$
+a_r(t) \propto t^{1/2}
+$$
+
+**OPTIONAL:** We can then back track a little bit to solve for $t_0$, which gives us an expression for the age of the universe, again, if it had **one single component**:
+
+$$
+t_0 = \frac{1}{1+w} \bigg( \frac{c^2}{6\pi G \rho} \bigg)^{1/2}
+$$
 
 ### How is the Hubble parameter related to the scale factor a(t)?
+
 
 ### Write down the approximate value of the Hubble constant today (including correct units), and hence give a rough estimate of the age of the universe.
