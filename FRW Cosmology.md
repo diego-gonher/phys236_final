@@ -14,3 +14,8 @@
 - Find the relation between scale factor and time in a matter dominated and a radiation dominated universe.
 - How is the Hubble parameter related to the scale factor a(t)?
 - Write down the approximate value of the Hubble constant today (including correct units), and hence give a rough estimate of the age of the universe.
+
+## [[Critical Density]]
+
+- Derive the critical density $\rho_{crit}$ in terms of the Hubble constant $H_0$. 
+- Given the present value of the Hubble constant, express ρcrit in physical units ($gcm^{−3}$). If I tell you that $\Omega_b = 0.04$ and that the universe is pure hydrogen, what is the number density of protons today?
