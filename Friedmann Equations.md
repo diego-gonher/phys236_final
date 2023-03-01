@@ -96,7 +96,42 @@ $$
 t_0 = \frac{1}{1+w} \bigg( \frac{c^2}{6\pi G \rho} \bigg)^{1/2}
 $$
 
-### How is the Hubble parameter related to the scale factor a(t)?
+For completion, this table includes the dependence on other physical parameters on the scale factor given a single component universe:
 
+| Component      | $w$ | $\rho$ | $P$ | $T$ |
+|     :----:     |   :----:   |   :----:   |    :----:   |    :----:   |
+| matter      | 0 | $a^{-3}$ | $a^{-5}$ | $a^{-2}$ |
+| radiation   | 1/3 | $a^{-4}$ | $a^{-4}$ | $a^{-1}$ |
+| vacuum energy   | -1 | $a^{0}$ | $a^{0}$ | |
+
+
+### How is the Hubble parameter related to the scale factor a(t)?
+The Hubble constant is defined as:
+
+$$
+H(z)^2 = \bigg(\frac{\dot{a}}{a}\bigg)^2 = H_0^2[\Omega_{m,0} (1+z)^{3} + \Omega_{r,0}(1+z)^4 + \Omega_{\Lambda} + \Omega_{k,0} (1+z)^2]^2
+$$
+Where we are allowing for a 3 component, non-flat universe. Using the relationship between scale factor and redshift, and assuming a flat universe, we can rewrite this as:
+
+$$
+H(a)^2 = H_o^2 [\Omega_{m,0}a^{-3} + \Omega_{r,0}a^{-4} + \Omega_\Lambda]
+$$
+
+Where
+
+$$
+H_0 = 70 \bigg( \frac{h}{0.70} \bigg) \hspace{0.25cm} km \hspace{0.15cm} s^{-1} \hspace{0.15cm} Mpc^{-1}
+$$
 
 ### Write down the approximate value of the Hubble constant today (including correct units), and hence give a rough estimate of the age of the universe.
+Here is the expression for Hubble's constant in the present:
+
+$$
+H_0 = 70 \bigg( \frac{h}{0.70} \bigg) \hspace{0.25cm} km \hspace{0.15cm} s^{-1} \hspace{0.15cm} Mpc^{-1}
+$$
+
+Where $h=0.7$. To get an approximation of the age of the universe, we just take the inverse of the Hubble's constant:
+
+$$
+t_{age} \approx H_0^{-1} \approx 13.6 \hspace{0.15cm} \textit{billion years}
+$$
