@@ -18,4 +18,12 @@
 ## [[Critical Density]]
 
 - Derive the critical density $\rho_{crit}$ in terms of the Hubble constant $H_0$. 
-- Given the present value of the Hubble constant, express ρcrit in physical units ($gcm^{−3}$). If I tell you that $\Omega_b = 0.04$ and that the universe is pure hydrogen, what is the number density of protons today?
+- Given the present value of the Hubble constant, express ρcrit in physical units ($gcm^{−3}$). 
+- If I tell you that $\Omega_b = 0.04$ and that the universe is pure hydrogen, what is the number density of protons today?
+
+## [[Misc FRW Cosmology]]
+- How does the energy density of cold dark matter scale with redshift? How does the energy density in radiation scale with redshift? 
+- How does the temperature of the CMB scale with redshift? 
+- What is the relation between scale factor a(t) and redshift z? 
+- Suppose a certain radioactive decay produces an emission line at 1000 A, with a characteristic decay time of 5 days. If we observe this line from a galaxy at z = 3, at what wavelength do we detect this line, and what’s the decay timescale? 
+- People talk a lot about the search for w in dark energy—how is w defined?
