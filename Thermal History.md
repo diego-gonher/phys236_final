@@ -10,4 +10,8 @@
 
 - Explain the the physics behind the idea of “Boltzmann-suppression”
 
+## [[Neutrino Temperature]]
+
+- Explain why the neutrino temperature is different from the CMB temperature. Is it higher or lower? Extra credit if you can estimate its numerical value.
+
 
