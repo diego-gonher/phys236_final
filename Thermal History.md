@@ -14,4 +14,11 @@
 
 - Explain why the neutrino temperature is different from the CMB temperature. Is it higher or lower? Extra credit if you can estimate its numerical value.
 
+## [[Effective Degrees of Freedom]]
+
+- How is the effective number of degrees of freedom g(T) defined? 
+- How is the effective number of degrees of freedom in entropy gS(T) defined? 
+- Why are these definitions useful? How are these two quantities different? 
+- When in the universe’s thermal history does g(T) = gS(T)? When does g(T) != gS(T)?
+
 
