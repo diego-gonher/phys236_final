@@ -21,4 +21,9 @@
 - Why are these definitions useful? How are these two quantities different? 
 - When in the universe’s thermal history does g(T) = gS(T)? When does g(T) != gS(T)?
 
+## [[Freeze-out and Relic Abundance]]
+
+- Write down the equation that encodes what cosmologists mean by “freeze-out”.
+- What equation needs to be solved to estimate a relic abundance?
+- Name three different physical scenarios in the course where we used freeze-out to estimate a relic particle abundance. 
 
