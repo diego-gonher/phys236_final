@@ -7,7 +7,7 @@ $$
 ds^2 = -c^2dt^2 + a^2(t) \big[dr^2 + S_k^2(r)\big( d\theta^2 + sin^2\theta d\phi^2 \big) \big]
 $$
 
-Given that the universe is flat, $S_k(r) = 0$, and, ignoring angular terms, we are left with:
+Given that the universe is flat, $S_k(r) = r$, and, ignoring angular terms, we are left with:
 
 $$
 ds^2 = -c^2dt^2 + a^2(t)dr^2
