@@ -12,3 +12,5 @@ $$
 $$
 
 Which tells us that this perturbations either don't grow, or at most, the grow logarithmically. This is heavily constrasted to the exponential growth for the homogenous-static universe and the power law dependence for the Einstein-De Sitter universe that we found previously. It is this supression of growth of fluctuations on scales inside the photon-baryon fluid sound horizon during the radiation dominated era that is known as the Meszaros Effect.
+
+It is important to note that something similar happens in a $\Lambda$ dominated universe. When we work out the solution in that case, we see that $\delta_{k,CDM}(t) \propto exp(-2H_\Lambda t)$, meaning that there is only a decaying mode and as such, fluctuations in the matter density reach a constant fractional amplitude. 
