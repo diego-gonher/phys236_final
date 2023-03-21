@@ -26,3 +26,9 @@
 
 - Sketch the density perturbation power spectrum P(k) vs. k, and explain the reason for the asymptotic slopes at the low-k and high-k ends.  
 - What characteristic length scale does the peak in the power spectrum P(k) correspond to?
+
+## [[Free Streaming]]
+
+- What is free-streaming? 
+- How does one calculate the free-streaming length? 
+- Describe how free-streaming modifies the shape of the linear power spectrum for hot or warm dark matter.
