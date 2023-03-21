@@ -21,3 +21,8 @@
 
 - Write down the perturbed Poisson equation.
 - Show that in a flat matter dominated universe, linear potential fluctuations are time-independent.
+
+## [[The Density Perturbation Power Spectrum]]
+
+- Sketch the density perturbation power spectrum P(k) vs. k, and explain the reason for the asymptotic slopes at the low-k and high-k ends.  
+- What characteristic length scale does the peak in the power spectrum P(k) correspond to?
