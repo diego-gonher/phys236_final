@@ -32,3 +32,9 @@
 - What is free-streaming? 
 - How does one calculate the free-streaming length? 
 - Describe how free-streaming modifies the shape of the linear power spectrum for hot or warm dark matter.
+
+## [[CDM and Hierarchical Cosmology]]
+
+- For a power law form for the density fluctuation power spectrum, P(k) = Ak^n, how does the variance of the relative mass excess σ(M) depend on length scale k? 
+- How do σ(M) and P(k) depend on the linear growth factor D(a)? 
+- Explain why these dependencies imply that the CDM is a ‘bottom-up’ hierarchical cosmology, with the smallest structures collapsing first.
