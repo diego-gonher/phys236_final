@@ -22,3 +22,6 @@ Heuristically, it is evident that more massive particles go non-relativistic at 
 
 ## Describe how free-streaming modifies the shape of the linear power spectrum for hot or warm dark matter.
 
+![NeutrinoDecoupling](images/WDMPowerSpectrum.png)
+
+HDM and WDM particles would inherit a higher velocity dispersion from the thermal bath, meaning that they'll have more time to free-stream since they'll stay relativistic for longer. This is quite important, because it means that structure formation at smaller fluctuations per unit of length are going to be supressed.
